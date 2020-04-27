@@ -48,6 +48,9 @@ function check(){
         ans=false;
     }
     alert(ans?"You won the game":"Please try again")
+    if (ans) {
+        rel()
+    }
 }
 
 function rel(){
