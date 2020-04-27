@@ -1,0 +1,21 @@
+{
+    "name": "Grid Game",
+    "short_name": "Grid Game",
+    "start_url": "http://htmlpreview.github.io/?https://github.com/sudhanshu-arya/JS-test-game/blob/master/jstestgame.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src":"https://raw.githubusercontent.com/sudhanshu-arya/JS-test-game/master/icon.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"https://raw.githubusercontent.com/sudhanshu-arya/JS-test-game/master/icon.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+table{
+    margin: auto;
+}
+td{
+    border: .2em solid black;
+    text-align: center;
+    background-color: whitesmoke;
+    height: 10em;
+    width: 10em;
+}
+
+button{
+    margin: auto;
+    box-shadow: 0 0 5px 4px lightgray;
+    margin: .5em;
+    text-align: center;
+}
+.btn{
+    font-size: 4em;
+    color: rgb(65, 65, 65);
+    width: 4em;
+}
+p{
+    font-size: 5em;
+    padding: 0;
+    margin: auto;
+}
+
+.bottom{
+    margin-top: 5em;
+    margin-left: auto;
+    text-align: center;
+}
