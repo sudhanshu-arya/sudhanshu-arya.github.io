@@ -8,12 +8,12 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src":"https://raw.githubusercontent.com/sudhanshu-arya/JS-test-game/master/icon.png",
+            "src":"https://raw.githubusercontent.com/sudhanshu-arya/sudhanshu-arya.github.io/master/icon.png",
             "type":"image/png",
             "sizes":"192x192"
         },
         {
-            "src":"https://raw.githubusercontent.com/sudhanshu-arya/JS-test-game/master/icon.png",
+            "src":"https://raw.githubusercontent.com/sudhanshu-arya/sudhanshu-arya.github.io/master/icon.png",
             "type":"image/png",
             "sizes":"512x512"
         }
